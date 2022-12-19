@@ -1,0 +1,64 @@
+{
+  "blogs": [
+    {
+      "title": "Omnis quaerat quae d",
+      "body": "Dolorum reprehenderi Dolorum reprehenderi Dolorum reprehenderi Dolorum reprehenderi\n",
+      "author": "avaz",
+      "id": 1
+    },
+    {
+      "title": "Quam id voluptate id",
+      "body": "Numquam proident re",
+      "author": "kanan",
+      "id": 3
+    },
+    {
+      "title": "Quam id voluptate id",
+      "body": "Numquam proident re",
+      "author": "kanan",
+      "id": 4
+    },
+    {
+      "title": "ASasjdhfkjdfb",
+      "content": "SAlam ",
+      "author": "Ceyhun",
+      "id": 5
+    },
+    {
+      "title": "ASas",
+      "content": "SAlam ",
+      "author": "Ceyhun",
+      "id": 6
+    },
+    {
+      "title": "SSSS",
+      "content": "Salam",
+      "author": "Ceyhun",
+      "id": 7
+    },
+    {
+      "title": "SSSS",
+      "content": "Salam",
+      "author": "Aladdin",
+      "id": 8
+    },
+    {
+      "title": "Salam",
+      "content": "SALAM",
+      "author": "Boss",
+      "id": 9
+    },
+    {
+      "title": "SALAM",
+      "content": "Asalsla",
+      "author": "Aladdin",
+      "id": 10
+    },
+    {
+      "title": "Salam",
+      "content": "Saslas",
+      "author": "Ceyhun",
+      "id": 11
+    }
+  ]
+}

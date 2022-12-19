@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog</title>
+    <link rel="stylesheet" href="css/blog.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="logo">
+          <span>The Blog Website</span>
+        </div>
+        <div class="nav">
+          <nav>
+            <ul>
+              <li><a href="home.html">Home</a></li>
+              <li><a href="blog.html">New Blog</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <section>
+      <div class="container">
+        <div class="addBlog">
+          <div class="addBlog-title">
+            <h1>Add a New Blog</h1>
+          </div>
+          <div class="addBlog-content">
+            <form action="blog.html" method="POST">
+              <label for="title">Blog Title</label>
+              <br />
+              <input type="text" name="title" id="title" />
+              <br />
+              <br />
+              <label for="content"> Blog Content</label>
+              <br />
+              <textarea
+                name="content"
+                id="content"
+                cols="30"
+                rows="2"
+              ></textarea>
+              <br />
+              <br />
+              <label for="author">Author</label>
+              <br />
+              <select name="" id="author">
+                <option value="">Select Author</option>
+                <option value="Aladdin">Aladdin</option>
+                <option value="Ceyhun">Ceyhun</option>
+                <option value="Boss">Boss</option>
+              </select>
+              <br />
+              <button type="submit" id="addBtn">Add Blog</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="js/blog.js"></script>
+  </body>
+</html>
